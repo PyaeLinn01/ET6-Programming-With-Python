@@ -8,7 +8,7 @@ Functions:
     inclusive_or(item, list1, list2): Returns True if `item` is in at least one of the lists.
 """
 
-def inclusive_or(item, list1, list2):
+def sort_numbers(item, list1, list2):
     """
     Checks if an item is present in at least one of two lists.
 
